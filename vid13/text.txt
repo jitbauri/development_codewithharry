@@ -1,0 +1,15 @@
+html entities 
+&lt;for <
+&gt;for >
+&copy; for 
+&amp; for &
+&nbsp for a non-breaking space
+
+Quotation tag:
+<blockqoute cite="souce-url">
+Quotation text here.
+</blockqoute>
+
+code tag :use for write code in your website
+<code></code>
+<pre><code>your multiline code here</code></pre> for proper space also in given code
